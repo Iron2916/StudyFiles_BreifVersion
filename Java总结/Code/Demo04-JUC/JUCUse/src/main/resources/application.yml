@@ -1,0 +1,11 @@
+server:
+  port: 9999
+
+
+# 线程相关的配置
+thread:
+  pool:
+    corePoolSize: 16
+    maxPoolSize: 32
+    queueCapacity: 50
+    keepAliveSeconds: 2

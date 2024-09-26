@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="de2d30a0-413b-458f-bd40-aa8497375581" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\soft\maven\maven-repository" />
+        <option name="mavenHome" value="D:/soft/maven/apache-maven-3.9.3" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\soft\maven\apache-maven-3.9.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+    <option name="enabledProfiles">
+      <list>
+        <option value="jdk-1.8" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="17" />
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2eWb6NMSQsqJcj0rxb1WAXsFLv2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "C:/Users/Iron/Desktop/尚硅谷2024最新版SpringCloud教程/Iron/SpringCloud2024",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "http.proxy",
+    "spring.configuration.checksum": "89fe172fabde2428dcc42ac5bc267f73",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Iron\Desktop\尚硅谷2024最新版SpringCloud教程\Iron\SpringCloud2024" />
+      <recent name="C:\Users\Iron\Desktop\尚硅谷2024最新版SpringCloud教程\SpringCloud2024\cloud_cosumer_order_80\src\main\java\com\iron\cloud" />
+      <recent name="C:\Users\Iron\Desktop\尚硅谷2024最新版SpringCloud教程\SpringCloud2024\cloud_provider_payment_8001\src\main\java\com\iron\cloud" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Iron\Desktop\尚硅谷2024最新版SpringCloud教程\Iron\SpringCloud2024\seata-storage-service2002\src\main\resources\mapper" />
+      <recent name="C:\Users\Iron\Desktop\尚硅谷2024最新版SpringCloud教程\Iron\SpringCloud2024\seata-account-service2003\src\main\resources\mapper" />
+      <recent name="C:\Users\Iron\Desktop\尚硅谷2024最新版SpringCloud教程\Iron\SpringCloud2024\seata-order-service2001\src\main\resources\mapper" />
+      <recent name="C:\Users\Iron\Desktop\尚硅谷2024最新版SpringCloud教程\Iron\SpringCloud2024\cloud_provider_payment_8001\src\main\resources" />
+      <recent name="C:\Users\Iron\Desktop\尚硅谷2024最新版SpringCloud教程\SpringCloud2024\cloud_provider_payment_8001\src\main\resources\mapper" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Main2002">
+    <configuration name="Main2001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="seata-order-service2001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.iron.cloud.Main2001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.iron.cloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main2002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="seata-storage-service2002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.iron.cloud.Main2002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.iron.cloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main2003" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="seata-account-service2003" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.iron.cloud.Main2003" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.iron.cloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main3377" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="cloudalibaba-config-nacos-client3377" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.iorn.cloud.Main3377" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="cloud_provider_payment_8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.iron.cloud.Main8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main8002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="cloud_provider_payment_8002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.iron.cloud.Main8002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main83" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="cloudalibaba-consumer-nacos-order83" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.iron.cloud.Main83" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main8401" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="cloudalibaba-sentinel-8401" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.iron.cloud.Main8401" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main9001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloudalibaba-provider-payment9001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.iron.cloud.Main9001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.iron.cloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main9528" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloudalibaba-sentinel-gateway9528" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.iron.cloud.Main9528" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.iron.cloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Main2003" />
+        <item itemvalue="Spring Boot.Main2002" />
+        <item itemvalue="Spring Boot.Main2001" />
+        <item itemvalue="Spring Boot.Main9528" />
+        <item itemvalue="Spring Boot.Main9001" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de2d30a0-413b-458f-bd40-aa8497375581" name="Changes" comment="" />
+      <created>1712023106549</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712023106549</updated>
+      <workItem from="1712023107833" duration="4326000" />
+      <workItem from="1712035554245" duration="720000" />
+      <workItem from="1712231312210" duration="7765000" />
+      <workItem from="1712239105695" duration="9219000" />
+      <workItem from="1712407417530" duration="5190000" />
+      <workItem from="1712452846335" duration="605000" />
+      <workItem from="1712454563574" duration="1772000" />
+      <workItem from="1712475248869" duration="4787000" />
+      <workItem from="1712480054302" duration="969000" />
+      <workItem from="1712495348779" duration="3947000" />
+      <workItem from="1712540857017" duration="3424000" />
+      <workItem from="1712564245674" duration="2814000" />
+      <workItem from="1712586109252" duration="3830000" />
+      <workItem from="1712625343606" duration="4419000" />
+      <workItem from="1712645948190" duration="1644000" />
+      <workItem from="1712663645540" duration="1688000" />
+      <workItem from="1712665493827" duration="124000" />
+      <workItem from="1712665671995" duration="7503000" />
+      <workItem from="1712676109892" duration="2557000" />
+      <workItem from="1712705180581" duration="221000" />
+      <workItem from="1712706647331" duration="8490000" />
+      <workItem from="1712735579176" duration="98000" />
+      <workItem from="1712735868185" duration="881000" />
+      <workItem from="1712835311377" duration="11592000" />
+      <workItem from="1712886476128" duration="18153000" />
+      <workItem from="1712921922932" duration="1775000" />
+      <workItem from="1712923977078" duration="4545000" />
+      <workItem from="1712972345933" duration="2597000" />
+      <workItem from="1712989896806" duration="7146000" />
+      <workItem from="1713016442668" duration="6647000" />
+      <workItem from="1713056308417" duration="8570000" />
+      <workItem from="1713100338998" duration="8300000" />
+      <workItem from="1713140061902" duration="8693000" />
+      <workItem from="1713164046942" duration="800000" />
+      <workItem from="1713282592584" duration="195000" />
+      <workItem from="1725066306561" duration="4585000" />
+      <workItem from="1725243157122" duration="4234000" />
+      <workItem from="1725345677007" duration="1598000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.mybatis.spring.MyBatisSystemException" package="org.mybatis.spring" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

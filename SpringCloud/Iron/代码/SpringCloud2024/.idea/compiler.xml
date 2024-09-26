@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cloudalibaba-config-nacos-client3377" />
+        <module name="mybatis_generator" />
+        <module name="seata-order-service2001" />
+        <module name="cloud-gateway9527" />
+        <module name="cloud_consumer_order_80" />
+        <module name="cloudalibaba-sentinel-8401" />
+        <module name="cloudalibaba-sentinel-gateway9528" />
+        <module name="cloudalibaba-provider-payment9001" />
+        <module name="cloudalibaba-consumer-nacos-order83" />
+        <module name="seata-account-service2003" />
+        <module name="seata-storage-service2002" />
+        <module name="cloud_consumer_order_feign_80" />
+        <module name="cloud_provider_payment_8002" />
+        <module name="cloud_provider_payment_8001" />
+        <module name="cloud_api_commons" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cloud_consumer_order_80 (1)" target="17" />
+      <module name="cloud_consumer_order_80 (2)" target="1.8" />
+      <module name="cloud_provider_payment_8001 (1)" target="1.8" />
+      <module name="cloud_provider_payment_8001 (2)" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

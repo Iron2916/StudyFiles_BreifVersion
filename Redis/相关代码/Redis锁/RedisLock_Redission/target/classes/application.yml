@@ -1,0 +1,21 @@
+server:
+  port: 9999
+
+spring:
+  # redis 配置
+  redis:
+    host: 192.168.11.100
+    port: 6379
+    password: 111111
+
+
+# mybaits配置
+mybatis:
+  mapper-locations: classpath:mapper/*.xml
+  type-aliases-package: com.iron.dao
+
+logging:
+  pattern:
+    console: console:%d{yyyy-MM-dd HH:mm:ss.SSS} [%thread] %-5level %logger- %msg%n
+  level:
+    root: info

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f15853e8-8c85-4888-ac90-1d939e3b8162" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\soft\maven\maven-repository" />
+        <option name="mavenHome" value="D:/soft/maven/apache-maven-3.9.3" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\soft\maven\apache-maven-3.9.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="17" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2hgHDHyX1yaqrpU83mtORwRAPjb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Iron/Desktop/面试/Java/JavaIO/code/JavaIO/src/main/java/com/iorn/Demo02节点流/p2字节节点流&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Iron\Desktop\面试\Java\JavaIO\code\JavaIO\src\main\java\com\iorn\Demo02节点流\p2字节节点流" />
+      <recent name="C:\Users\Iron\Desktop\面试\Java\JavaIO\code\JavaIO\src\main\java\com\iorn\Demo01File\p3面试题" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Iron\Desktop\面试\Java\JavaIO\code\JavaIO\src\main\java\com\iorn\Demo01File\p1构造器" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MyPrint.TestMyPrint">
+    <configuration name="字节输入缓冲流BufferedInputStream.TestInput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.iorn.Demo03处理流.p1缓冲流.字节缓冲流.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.iorn.Demo03处理流.p1缓冲流.字节缓冲流" />
+      <option name="MAIN_CLASS_NAME" value="com.iorn.Demo03处理流.p1缓冲流.字节缓冲流.字节输入缓冲流BufferedInputStream" />
+      <option name="METHOD_NAME" value="TestInput" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="转换输入流InputStreamReader.TestFileInputReader" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.iorn.Demo03处理流.p2转换流.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.iorn.Demo03处理流.p2转换流" />
+      <option name="MAIN_CLASS_NAME" value="com.iorn.Demo03处理流.p2转换流.转换输入流InputStreamReader" />
+      <option name="METHOD_NAME" value="TestFileInputReader" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyPrint.TestMyPrint" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.iorn.Demo04其它.p2修改标准输出流.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.iorn.Demo04其它.p2修改标准输出流" />
+      <option name="MAIN_CLASS_NAME" value="com.iorn.Demo04其它.p2修改标准输出流.MyPrint" />
+      <option name="METHOD_NAME" value="TestMyPrint" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="对象输入流ObjectInputStream.TestObjectInputStream" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.iorn.Demo03处理流.p3对象流.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.iorn.Demo03处理流.p3对象流" />
+      <option name="MAIN_CLASS_NAME" value="com.iorn.Demo03处理流.p3对象流.对象输入流ObjectInputStream" />
+      <option name="METHOD_NAME" value="TestObjectInputStream" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="对象输出流ObjectOutputStream.TestObjectOutputStream" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.iorn.Demo03处理流.p3对象流.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.iorn.Demo03处理流.p3对象流" />
+      <option name="MAIN_CLASS_NAME" value="com.iorn.Demo03处理流.p3对象流.对象输出流ObjectOutputStream" />
+      <option name="METHOD_NAME" value="TestObjectOutputStream" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MyPrint.TestMyPrint" />
+        <item itemvalue="JUnit.对象输入流ObjectInputStream.TestObjectInputStream" />
+        <item itemvalue="JUnit.对象输出流ObjectOutputStream.TestObjectOutputStream" />
+        <item itemvalue="JUnit.转换输入流InputStreamReader.TestFileInputReader" />
+        <item itemvalue="JUnit.字节输入缓冲流BufferedInputStream.TestInput" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f15853e8-8c85-4888-ac90-1d939e3b8162" name="Changes" comment="" />
+      <created>1718008682561</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718008682561</updated>
+      <workItem from="1718008683794" duration="14027000" />
+      <workItem from="1718159805437" duration="4803000" />
+      <workItem from="1718194814249" duration="3713000" />
+      <workItem from="1723627932268" duration="1317000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

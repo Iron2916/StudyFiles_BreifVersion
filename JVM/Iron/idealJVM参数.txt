@@ -1,0 +1,58 @@
+-XX:+TraceClassLoading
+	打印出并初始化的类
+-Xss栈大小：
+	-Xss1048576 
+	-Xss1024K 
+	-Xss1m
+	-Xss1g
+
+设置堆内存大小：
+	–Xmx（max最大值)
+	-Xms (初始的total)
+
+设置方法区大小：
+	-XX:MaxMetaspaceSize=值(jdk8)
+	-XX:MaxPermSize=值(jdk8)
+
+查看垃圾回收日志：
+	-verbose:gc
+
+使用分代GC垃圾回收器回收：
+	-XX:+UseSerialGC
+设置新生代大小：
+	-Xmn100m
+伊甸园区和幸存区的比例，默认为8
+	新生代1g内存，伊甸园区800MB,S0和S1各100MB
+比例调整为4的写法：
+	-XX:SurvivorRatio=4
+
+打印GC日志：
+	-XX:+PrintGCDetailsverbose:gc 
+
+
+设置垃圾回收器为Serial垃圾回收器：
+	-XX:+UseSerialGC 新生代，老年代都是用Serial(串行回收器)
+
+设置新生代使用ParNew垃圾回收器，老年代使用穿行垃圾回收器：
+	-XX:+UseParNewGC
+
+老年代设置成CMS垃圾回收器：
+	XX:+UseConcMarkSweepGC
+
+	N次FullGC后再进行整理内存碎片：
+		-XX:CMSFullGCsBeforeCompaction=N 参数（默认0）
+	CMS中并发阶段运行时的线程数：
+		-XX:ConcGCThreads
+
+使用Parallel Scavenge年轻代垃圾回收器 + Parallel Old垃圾回收器：
+	-XX:+UseParallelGC 或 -XX:+UseParallelOldGC可
+
+指定G1垃圾回收器的：
+	设置垃圾回收为G1垃圾回收器(jdk9之后不用进行设置):
+		-XX:+UseG1GC
+	指定Region大小
+		-XX:G1HeapRegionSize=32m指定(其中32m指定region大小为32M)
+	指定最大暂停时间
+		-XX:MaxGCPauseMillis=n（默认200）
+	总堆占有率达到阈值(达到此阀值会触发MixedGC)
+		-XX:InitiatingHeapOccupancyPercent

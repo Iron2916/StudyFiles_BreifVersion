@@ -1,0 +1,16 @@
+# ========================consul=====================
+spring:
+  application:
+    name: cloud-payment-service
+    ####Spring Cloud Consul for Service Discovery：服务注册与发现
+  cloud:
+    consul:
+      host: localhost
+      port: 8500
+      discovery:
+        service-name: ${spring.application.name}
+      config:
+        profile-separator: '-' # default value is ","，we update '-'：将默认的，分割改为-分割
+        format: YAML
+        watch:
+          wait-time: 1  # 设置 consul key-value 更新时间间隔，一般不需要设置，用默认值就行
